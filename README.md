@@ -7,7 +7,6 @@ And we also provide the CRUD sample to show how manage the item list , add new o
 
 We hope this boilerplate can help the users to focus on their business part . Before that ,  we will explain how it is designed and implemented.
 
-* [用户使用指南-中文版](./README.zh_CN.md)
 
 # Get Started
 
